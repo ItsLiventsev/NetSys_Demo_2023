@@ -1,5 +1,7 @@
 # DEMO2022-2023-linux-only
 
+Ссылка на файлы - https://disk.yandex.ru/d/zF9eO7UQzrCJBw
+
 ![изображение](https://user-images.githubusercontent.com/28905300/175996163-e7dbdb7b-2d18-4150-906a-ac925f3a66c7.png)
 
 ## Таблица 1. Характеристики ВМ
